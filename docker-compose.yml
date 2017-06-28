@@ -1,0 +1,23 @@
+version: "3"
+services:
+
+        php:
+          build: ./php
+          ports:
+            - 80:80
+          volumes:
+            - ./php/html:/var/www/html
+        db:
+          build: ./mysql
+          volumes:
+            - ./mysql-data:/var/lib/mysql
+          environment:
+            MYSQL_ROOT_PASSWORD: 1234
+            MYSQL_DATABASE: test
+        phpmyadmin:
+          image: phpmyadmin/phpmyadmin
+          ports:
+            - 8080:80
+          restart: always
+          depends_on:
+            - db
