@@ -11,12 +11,18 @@
 |
 */
 
-Route::get('/', function () {
-  return view('welcome');
-});
+Route::get('/', 'IndexController@index');
 
-Route::get('page', 'IndexController@index');
+//Route::delete('content/delete/{article}', 'IndexController@delete')->name('articleDelete');
 
-Route::get('node', function () {
-  return 'Hello World!!!';
-});
+Auth::routes();
+
+Route::get('/home', 'HomeController@index');
+
+Route::get('/articles','ArticleController@index');
+Route::get('/article/create','ArticleController@create');
+Route::get('/article/edit/{id}','ArticleController@edit')->name('articleEdit');
+Route::post('/article/update/{id}','ArticleController@update')->name('articleUpdate');
+Route::get('/article/delete/{id}','ArticleController@delete')->name('articleDelete');;
+Route::post('/article/store','ArticleController@store')->name('articleStore');
+Route::get('/article/show/{id}','ArticleController@show')->name('articleShow');
