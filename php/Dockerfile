@@ -19,5 +19,4 @@ RUN apt-get update
 RUN /bin/bash
 RUN apt-get install -y git
 RUN apt-get install -y nano
-RUN composer create-project --prefer-dist laravel/laravel blog "5.3.*"
 
