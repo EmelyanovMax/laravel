@@ -54,7 +54,7 @@ class IndexController extends Controller {
     $article->fill($data);
     $article->save();
 
-//    return redirect('/');
+    return redirect('/');
   }
 
   public function delete(Article $article) {

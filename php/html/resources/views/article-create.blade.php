@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
 @section('content')
+    <script src="{{ asset('js/tiny_mce/tinymce.min.js') }}"></script>
+    <script src="{{ asset('js/tiny_mce.js') }}"></script>
     <div class="container">
         <div class="row">
             <div class="form">

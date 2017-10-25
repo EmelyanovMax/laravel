@@ -2,6 +2,347 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffb3dc1f-3146-4c99-8af7-293b9c085866" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/emoticons/img/smiley-cool.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/emoticons/img/smiley-cry.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/emoticons/img/smiley-embarassed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/emoticons/img/smiley-foot-in-mouth.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/emoticons/img/smiley-frown.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/emoticons/img/smiley-innocent.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/emoticons/img/smiley-kiss.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/emoticons/img/smiley-laughing.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/emoticons/img/smiley-money-mouth.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/emoticons/img/smiley-sealed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/emoticons/img/smiley-smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/emoticons/img/smiley-surprised.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/emoticons/img/smiley-tongue-out.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/emoticons/img/smiley-undecided.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/emoticons/img/smiley-wink.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/emoticons/img/smiley-yell.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/eqneditor/img/eqneditor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/eqneditor/img/eqneditor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/help/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/cas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/help.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/icons/cas.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/icons/chem.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/icons/formula.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/icons/general/close_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/icons/general/fulls_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/icons/general/max_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/icons/general/min_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/icons/general/mins_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/icons/hover/close_icon_h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/icons/hover/fulls_icon_h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/icons/hover/max_icon_h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/icons/hover/min_icon_h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/icons/hover/mins_icon_h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/icons/tiny_mce/cas.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/icons/tiny_mce/chem.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/icons/tiny_mce/formula.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/icons/xinha/cas.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/icons/xinha/formula.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/poweredbywiris.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/icons/cas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/icons/chem.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/icons/formula.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/icons/tinymce3/cas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/icons/tinymce3/chem.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/icons/tinymce3/formula.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/cas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/tests/fonts/wiris_icon_font.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/tests/fonts/wiris_icon_font.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/tests/fonts/wiris_icon_font.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/tests/img/info_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/skins/lightgray/fonts/tinymce-small.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/skins/lightgray/fonts/tinymce-small.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/skins/lightgray/fonts/tinymce-small.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/skins/lightgray/fonts/tinymce.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/skins/lightgray/fonts/tinymce.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/skins/lightgray/fonts/tinymce.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/skins/lightgray/img/anchor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/skins/lightgray/img/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/skins/lightgray/img/object.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/skins/lightgray/img/trans.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/jquery.tinymce.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/langs/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/advlist/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/anchor/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/autolink/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/autoresize/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/autosave/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/bbcode/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/charmap/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/code/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/codesample/css/prism.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/codesample/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/colorpicker/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/contextmenu/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/directionality/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/emoticons/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/eqneditor/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/fullpage/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/fullscreen/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/help/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/hr/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/image/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/imagetools/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/importcss/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/insertdatetime/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/legacyoutput/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/link/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/lists/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/media/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/nonbreaking/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/noneditable/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/pagebreak/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/paste/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/preview/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/print/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/save/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/searchreplace/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/spellchecker/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tabfocus/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/table/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/template/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/textcolor/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/textpattern/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/VERSION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/configuration.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/configuration.ini.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/.idea/core.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/cas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/display.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/editor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/editor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/editor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/iframe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/core/modal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/generic_wiris/generic_demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/WIRISplugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/cas.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/cleancache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/configurationjs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/configurationjson.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/createcasimage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/createimage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/editor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/getmathml.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/isphp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/Date.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/EReg.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/Hash.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/IntIter.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/Main.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/Math.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/Reflect.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/Std.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/StringBuf.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/StringTools.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/Sys.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/Type.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/VERSION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/ValueType.enum.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/common/WInteger.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/api/Cas.interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/api/CleanCache.interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/api/Configuration.interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/api/ConfigurationKeys.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/api/Editor.interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/api/ImageFormatController.interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/api/ParamsProvider.interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/api/PluginBuilder.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/api/Render.interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/api/ServiceResourceLoader.interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/api/Test.interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/api/TextService.interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/asyncapi/AsyncRender.interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/asyncapi/AsyncTextService.interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/asyncapi/BytesCallback.interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/asyncapi/StringCallback.interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/asyncimpl/AsyncRenderImpl.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/asyncimpl/AsyncTextServiceImpl.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/asyncimpl/CallbackImpl.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/asyncimpl/CreateImageMethod.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/asyncimpl/HttpPostAndContinue.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/configuration/ConfigurationUpdater.interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/CacheFormulaImpl.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/CacheImpl.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/CasImpl.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/CleanCacheImpl.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/ConfigurationImpl.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/CustomConfigurationUpdater.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/DefaultConfigurationUpdater.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/EditorImpl.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/FileConfigurationUpdater.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/FileStorageAndCache.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/FolderTreeStorageAndCache.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/GenericParamsProviderImpl.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/HttpImpl.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/HttpListener.interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/ImageFormatControllerPng.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/ImageFormatControllerSvg.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/PluginBuilderImpl.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/RenderImpl.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/RenderImplIntegratedServices.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/ServiceResourceLoaderImpl.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/TestImpl.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/TextFilter.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/TextFilterTags.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/TextServiceImpl.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/impl/TextServiceImplIntegratedServices.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/storage/StorageAndCache.interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/plugin/web/PhpConfigurationUpdater.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/std/system/HttpProxy.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/std/system/HttpProxyAuth.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/system/ArrayEx.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/system/Base64.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/system/CallWrapper.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/system/Exception.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/system/InputEx.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/system/Md5Tools.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/system/PropertiesTools.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/system/Storage.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/system/StringEx.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/system/System.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/system/TypeTools.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/system/Utf8.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/system/_Utf8/StringIterator.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/system/service/HttpRequest.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/system/service/HttpResponse.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/util/json/JSon.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/util/json/JSonIntegerFormat.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/util/json/JsonAPIResponse.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/util/json/StringParser.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/util/net/UserAgent.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/util/sys/Cache.interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/util/sys/IniFile.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/util/sys/Store.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/com/wiris/util/xml/WCharacterBase.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/default-configuration.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/haxe/BaseCode.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/haxe/Http.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/haxe/Int32.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/haxe/Int64.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/haxe/Log.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/haxe/Md5.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/haxe/Utf8.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/haxe/io/Bytes.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/haxe/io/BytesBuffer.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/haxe/io/BytesInput.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/haxe/io/BytesOutput.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/haxe/io/Eof.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/haxe/io/Error.enum.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/haxe/io/Input.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/haxe/io/Output.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/php/Boot.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/php/Lib.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/php/net/SslSocket.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/sys/FileSystem.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/sys/_FileSystem/FileKind.enum.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/sys/io/File.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/sys/io/FileInput.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/sys/io/FileOutput.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/sys/io/FileSeek.enum.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/sys/net/Host.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/sys/net/Socket.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/tech.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/lib/wirisplugin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/moodleparamsprovider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/phpparamsprovider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/plugin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/pluginbuilder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/resource.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/service.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/setter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/showcasimage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/showimage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/testfilter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/integration/update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/ar/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/ca/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/cs/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/da/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/de/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/el/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/en/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/es/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/et/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/eu/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/fi/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/fr/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/gl/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/he/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/hr/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/hu/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/it/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/ja/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/ko/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/nl/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/no/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/pl/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/pt/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/pt_br/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/ru/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/sv/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/tr/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/lang/zh/strings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/tech.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/tests/Web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/tests/css/prism.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/tests/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/tests/fonts/wiris_icon_font.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/tests/generic_demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/tests/img/java_white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/tests/img/net_white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/tests/img/php_white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/tests/img/rails_white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/tests/img/w.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/tests/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/tests/js/editorlib.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/tests/js/google_analytics.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/tests/js/prism.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/tests/js/wirislib.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/tiny_mce_wiris/wirisplugin-generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/toc/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/uploadimage/langs/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/uploadimage/langs/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/uploadimage/langs/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/uploadimage/langs/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/uploadimage/langs/fr_FR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/uploadimage/langs/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/uploadimage/langs/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/uploadimage/langs/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/uploadimage/langs/pt_BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/uploadimage/langs/pt_PT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/uploadimage/langs/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/uploadimage/langs/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/uploadimage/langs/zh_TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/uploadimage/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/visualblocks/css/visualblocks.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/visualblocks/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/visualchars/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/plugins/wordcount/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/skins/lightgray/content.inline.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/skins/lightgray/content.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/skins/lightgray/fonts/tinymce-small.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/skins/lightgray/fonts/tinymce.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/skins/lightgray/skin.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/themes/inlite/theme.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/themes/modern/theme.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/html/public/js/tiny_mce/tinymce.min.js" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/php/html/blog/.env.example" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/php/html/blog/.gitattributes" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/php/html/blog/.gitignore" afterPath="" />
@@ -142,10 +483,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysql-data/ib_logfile1" afterPath="$PROJECT_DIR$/mysql-data/ib_logfile1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysql-data/ibdata1" afterPath="$PROJECT_DIR$/mysql-data/ibdata1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysql-data/ibtmp1" afterPath="$PROJECT_DIR$/mysql-data/ibtmp1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/lavarel.iml" afterPath="$PROJECT_DIR$/.idea/lavarel.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysql-data/ib_buffer_pool" afterPath="$PROJECT_DIR$/mysql-data/ib_buffer_pool" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/Dockerfile" afterPath="$PROJECT_DIR$/php/Dockerfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/html/app/Http/Controllers/ArticleController.php" afterPath="$PROJECT_DIR$/php/html/app/Http/Controllers/ArticleController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/html/app/Http/Controllers/HomeController.php" afterPath="$PROJECT_DIR$/php/html/app/Http/Controllers/HomeController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/html/app/Http/Controllers/IndexController.php" afterPath="$PROJECT_DIR$/php/html/app/Http/Controllers/IndexController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/html/resources/views/article-create.blade.php" afterPath="$PROJECT_DIR$/php/html/resources/views/article-create.blade.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -167,7 +510,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="articles.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="articles.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/html/resources/views/articles.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
@@ -180,8 +523,28 @@
       <file leaf-file-name="article-create.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/html/resources/views/article-create.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="69" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="69" />
+            <state relative-caret-position="45">
+              <caret line="3" column="53" lean-forward="false" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tiny_mce.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/php/html/public/js/tiny_mce.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="93" lean-forward="false" selection-start-line="11" selection-start-column="93" selection-end-line="11" selection-end-column="93" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article-edit.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/html/resources/views/article-edit.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -190,8 +553,18 @@
       <file leaf-file-name="ArticleController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/html/app/Http/Controllers/ArticleController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="1320">
+              <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/html/app/Http/Controllers/HomeController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -203,6 +576,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -248,10 +622,14 @@
         <option value="$PROJECT_DIR$/php/html/blog/resources/views/article-edit.blade.php" />
         <option value="$PROJECT_DIR$/php/html/blog/resources/views/articles.blade.php" />
         <option value="$PROJECT_DIR$/php/html/resources/views/bootstrap/page.blade.php" />
-        <option value="$PROJECT_DIR$/php/html/app/Http/Controllers/ArticleController.php" />
-        <option value="$PROJECT_DIR$/php/html/app/Http/Controllers/HomeController.php" />
         <option value="$PROJECT_DIR$/php/html/routes/web.php" />
         <option value="$PROJECT_DIR$/php/html/resources/views/articles.blade.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/php/html/app/Http/Controllers/ArticleController.php" />
+        <option value="$PROJECT_DIR$/php/html/app/Http/Controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/php/html/app/Http/Controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/php/html/resources/views/article-create.blade.php" />
+        <option value="$PROJECT_DIR$/php/html/public/js/tiny_mce.js" />
       </list>
     </option>
   </component>
@@ -396,6 +774,28 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lavarel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lavarel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -458,8 +858,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -472,6 +872,10 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/php/html/blog/resources/views/bootstrap" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/php/html/public/js" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -567,22 +971,24 @@
       <updated>1498638159648</updated>
       <workItem from="1498638161390" duration="29741000" />
       <workItem from="1498889032495" duration="413000" />
-      <workItem from="1508735540613" duration="9549000" />
+      <workItem from="1508735540613" duration="9557000" />
+      <workItem from="1508835641525" duration="667000" />
+      <workItem from="1508919047209" duration="1257000" />
+      <workItem from="1508924944798" duration="1915000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39703000" />
+    <option name="totallyTimeSpent" value="43550000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1421" y="24" width="1865" height="1056" extended-state="0" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25453547" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26278174" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24958768" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -594,6 +1000,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -605,257 +1012,43 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/php/html/blog/public/css/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/database/factories/ModelFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="54" column="14" lean-forward="false" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/database/migrations/2014_10_12_100000_create_password_resets_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/database/migrations/2014_10_12_000000_create_users_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/public/css/page.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/bootstrap/category.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="107" column="84" lean-forward="false" selection-start-line="107" selection-start-column="84" selection-end-line="107" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/bootstrap/single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="241" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="311" column="13" lean-forward="false" selection-start-line="311" selection-start-column="13" selection-end-line="311" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/database/migrations/2017_06_29_002707_Articles.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/layouts/site.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="99" column="32" lean-forward="false" selection-start-line="99" selection-start-column="32" selection-end-line="99" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/app/Http/Controllers/Auth/ResetPasswordController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/app/Http/Controllers/Auth/RegisterController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-236">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/app/Http/Controllers/Auth/ForgotPasswordController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/config/auth.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-506">
-          <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/app/Http/Controllers/Auth/LoginController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/layouts/app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/app/Article.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/bootstrap/add-content.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="32" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="556" column="27" lean-forward="false" selection-start-line="556" selection-start-column="27" selection-end-line="556" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/app/Http/Controllers/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/app/Http/Controllers/Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/bootstrap/page.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="50" lean-forward="false" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/bootstrap/article-content.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/app/Http/Controllers/IndexController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/article-show.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/app/Providers/AuthServiceProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="23" lean-forward="false" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/app/Http/Controllers/ArticleController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/article-edit.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="73" lean-forward="false" selection-start-line="18" selection-start-column="73" selection-end-line="18" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/articles.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/article-create.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="69" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/php/html/blog/database/migrations/2014_10_12_000000_create_users_table.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/public/css/page.css" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/bootstrap/category.html" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/bootstrap/single.html" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/database/migrations/2017_06_29_002707_Articles.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/layouts/site.blade.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/app/Http/Controllers/Auth/ResetPasswordController.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/app/Http/Controllers/Auth/RegisterController.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/app/Http/Controllers/Auth/ForgotPasswordController.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/config/auth.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/app/Http/Controllers/Auth/LoginController.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/layouts/app.blade.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/app/Article.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/bootstrap/add-content.blade.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/app/Http/Controllers/HomeController.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/app/Http/Controllers/Controller.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/bootstrap/page.blade.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/bootstrap/article-content.blade.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/app/Http/Controllers/IndexController.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/article-show.blade.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/app/Providers/AuthServiceProvider.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/routes/web.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/app/Http/Controllers/ArticleController.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/article-edit.blade.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/articles.blade.php" />
+    <entry file="file://$PROJECT_DIR$/php/html/blog/resources/views/article-create.blade.php" />
     <entry file="file://$PROJECT_DIR$/php/html/app/Http/Controllers/Controller.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -863,7 +1056,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -871,15 +1063,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/app/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -887,7 +1070,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -895,7 +1077,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -903,66 +1084,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
           <caret line="1404" column="20" lean-forward="false" selection-start-line="1404" selection-start-column="20" selection-end-line="1404" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/app/Article.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/resources/views/bootstrap/page.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="58" lean-forward="false" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/resources/views/article-edit.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="22" column="77" lean-forward="false" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/app/Http/Controllers/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/app/Http/Controllers/IndexController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/html/app/Http/Controllers/ArticleController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/php/html/resources/views/bootstrap/page.blade.php" />
     <entry file="file://$PROJECT_DIR$/php/html/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -981,10 +1106,101 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/html/app/Http/Controllers/ArticleController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/html/app/Http/Controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="57" column="3" lean-forward="true" selection-start-line="57" selection-start-column="3" selection-end-line="57" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/html/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/html/app/Article.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/html/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/html/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="22" column="77" lean-forward="false" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/html/resources/views/article-edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/html/public/js/tiny_mce/langs/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/html/public/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/html/public/js/tiny_mce/course_sections.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/php/html/resources/views/article-create.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="69" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="69" />
+        <state relative-caret-position="45">
+          <caret line="3" column="53" lean-forward="false" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
           <folding />
         </state>
       </provider>
@@ -993,6 +1209,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="60" lean-forward="false" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/html/public/js/tiny_mce.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="93" lean-forward="false" selection-start-line="11" selection-start-column="93" selection-end-line="11" selection-end-column="93" />
           <folding />
         </state>
       </provider>
