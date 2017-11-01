@@ -10,18 +10,30 @@
                 <form method="post" action="{{route('articleStore')}}">
                     <div class="form-group">
                         <label for="title">Заголовок</label>
+                        @if ($errors->has('title'))
+                            <div class="error alert-danger">{{ $errors->first('title') }}</div>
+                        @endif
                         <input type="text" class="form-control" id="title" name="title">
                     </div>
                     <div class="form-group">
                         <label for="alias">Псевдоним</label>
+                        @if ($errors->has('alias'))
+                            <div class="error alert-danger">{{ $errors->first('alias') }}</div>
+                        @endif
                         <input type="text" class="form-control" id="alias" name="alias">
                     </div>
                     <div class="form-group">
-                        <label for="exampleInputFile">Краткое описание</label>
+                        <label for="description">Краткое описание</label>
+                        @if ($errors->has('description'))
+                            <div class="error alert-danger">{{ $errors->first('description') }}</div>
+                        @endif
                         <textarea class="form-control" name="description"></textarea>
                     </div>
                     <div class="form-group">
-                        <label for="exampleInputFile">Полный текст</label>
+                        <label for="text">Полный текст</label>
+                        @if ($errors->has('text'))
+                            <div class="error alert-danger">{{ $errors->first('text') }}</div>
+                        @endif
                         <textarea class="form-control" name="text"></textarea>
                     </div>
                     <div id="file-wrapper">

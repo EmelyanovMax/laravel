@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Article;
 use App\Http\Requests;
+use Illuminate\Support\Facades\Validator;
 use App\Http\Controllers\Controller;
 
 class ArticleController extends Controller {
@@ -15,36 +16,54 @@ class ArticleController extends Controller {
     $articles = Article::all();
     return view('articles', [
       'articles' => $articles,
-      ]);
+    ]);
+  }
+
+  /**
+   * Validate fields before saving
+   */
+  public function _validate($request) {
+
+    $validator = Validator::make($request->all(), [
+      'title' => 'required|max:255|min:4',
+      'alias' => 'required|unique:articles,alias|max:50',
+      'description' => 'required|min:4',
+      'text' => 'required|min:10',
+    ]);
+    return $validator;
   }
 
   /**
    * Show the form for creating a new resource.
    */
-  public function create() {
+  public
+  function create() {
     return view('article-create');
   }
 
   /**
    * Store a newly created resource in storage.
    */
-  public function store(Request $request) {
-    $this->validate($request, [
-      'title' => 'required|max:255|min:4',
-      'alias' => 'required|unique:articles,alias|max:50',
-      'description' => 'required|min:4',
-      'text' => 'required|min:10',
-    ]);
-    $article = new Article;
-    $article->create($request->all());
+  public
+  function store(Request $request) {
+    $validator = $this->_validate($request);
+    if ($validator->fails()) {
+      return redirect()->back()->withErrors($validator->errors());
+    }
+    else {
 
-    return redirect('/articles');
+      $article = new Article;
+      $article->create($request->all());
+
+      return redirect('/articles');
+    }
   }
 
   /**
    * Display the specified resource.
    */
-  public function show($id) {
+  public
+  function show($id) {
     $article = Article::find($id);
     return view('article-show', [
       'article' => $article,
@@ -54,7 +73,8 @@ class ArticleController extends Controller {
   /**
    * Show the form for editing the specified resource.
    */
-  public function edit($id) {
+  public
+  function edit($id) {
     $article = Article::find($id);
     return view('article-edit', [
       'article' => $article,
@@ -64,23 +84,25 @@ class ArticleController extends Controller {
   /**
    * Update the specified resource in storage.
    */
-  public function update(Request $request, $id) {
-    $this->validate($request, [
-      'title' => 'required|max:255|min:4',
-      'alias' => 'required|max:50|unique:articles,alias,' . $id,
-      'description' => 'required|min:4',
-      'text' => 'required|min:10',
-    ]);
+  public
+  function update(Request $request, $id) {
+    $validator = $this->_validate($request);
+    if ($validator->fails()) {
+      return redirect()->back()->withErrors($validator->errors());
+    }
+    else {
+      $article = Article::find($id);
 
-    $article = Article::find($id);
-    $article->update($request->all());
-    return redirect('/articles');
+      $article->update($request->all());
+      return redirect('/articles');
+    }
   }
 
   /**
    * Remove the specified resource from storage.
    */
-  public function delete($id) {
+  public
+  function delete($id) {
     $article = Article::find($id);
     $article->delete();
     return redirect('/articles');
