@@ -7,7 +7,7 @@
     <div class="container">
         <div class="row">
             <div class="form">
-                <form method="post" action="{{route('articleStore')}}">
+                <form method="post" enctype="multipart/form-data" action="{{route('articleStore')}}">
                     <div class="form-group">
                         <label for="title">Заголовок</label>
                         @if ($errors->has('title'))
@@ -39,7 +39,7 @@
                     <div id="file-wrapper">
                         <div class="file-item">
                             <div class="form-group file">
-                                <input type="file" name="file">
+                                <input type="file" name="file[]">
                             </div>
                             <button class="delete-file btn-danger" type="button">Удалить файл</button>
                         </div>

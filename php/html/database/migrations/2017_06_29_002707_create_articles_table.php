@@ -15,17 +15,14 @@ class CreateArticlesTable extends Migration {
       $table->increments('id');
       $table->string('alias');
       $table->string('title');
-      $table->integer('file_id');
       $table->text('text');
       $table->string('description');
-      $table->string('image');
-      $table->string('meta_description');
-      $table->string('meta_keywords');
       $table->integer('category_id');
       $table->boolean('public');
       $table->boolean('comments_enable');
       $table->timestamps();
     });
+    DB::statement("ALTER TABLE articles ADD file_id BLOB");
   }
 
   /**

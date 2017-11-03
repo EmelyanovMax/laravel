@@ -6,7 +6,7 @@ $(function () {
         var div = document.createElement('div');
         div.className = 'file-item';
 
-        div.innerHTML = '<div class="form-group file"><input type="file" name="file"></div>' +
+        div.innerHTML = '<div class="form-group file"><input type="file" name="file[]"></div>' +
             '<button class="delete-file" type="button">Удалить файл</button>';
 
         document.getElementById('file-wrapper').appendChild(div);

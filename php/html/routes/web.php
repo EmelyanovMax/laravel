@@ -23,6 +23,6 @@ Route::get('/articles','ArticleController@index');
 Route::get('/article/create','ArticleController@create')->name('articleCreate');;
 Route::get('/article/edit/{id}','ArticleController@edit')->name('articleEdit');
 Route::post('/article/update/{id}','ArticleController@update')->name('articleUpdate');
-Route::post('/article/delete/{id}','ArticleController@delete')->name('articleDelete');;
+Route::get('/article/delete/{id}','ArticleController@delete')->name('articleDelete');;
 Route::post('/article/store','ArticleController@store')->name('articleStore');
 Route::get('/article/show/{id}','ArticleController@show')->name('articleShow');

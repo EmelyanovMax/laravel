@@ -2,9 +2,12 @@
 
 namespace App\Http\Controllers;
 
+use App\CustomFile;
+use Illuminate\Http\File;
+use Illuminate\Support\Facades\Storage;
 use Illuminate\Http\Request;
 use App\Article;
-use App\Http\Requests;
+use Illuminate\Support\Facades\Response;
 use Illuminate\Support\Facades\Validator;
 use App\Http\Controllers\Controller;
 
@@ -36,23 +39,35 @@ class ArticleController extends Controller {
   /**
    * Show the form for creating a new resource.
    */
-  public
-  function create() {
+  public function create() {
     return view('article-create');
   }
 
   /**
    * Store a newly created resource in storage.
    */
-  public
-  function store(Request $request) {
+  public function store(Request $request) {
     $validator = $this->_validate($request);
     if ($validator->fails()) {
       return redirect()->back()->withErrors($validator->errors());
     }
     else {
-
       $article = new Article;
+
+      foreach ($request->file as $uploaded_file) {
+        $user_filename = $uploaded_file->getClientOriginalName();
+        $saved_filename = time() . '_' . $user_filename;
+        $path = storage_path() . '/app/public/photos/';
+        $uploaded_file->move($path, $saved_filename);
+        $file = new CustomFile;
+        $file['name'] = $user_filename;
+        $file['path'] = $path . $saved_filename;
+
+        $file->save();
+        $file_ids[] = $file['id'];
+      }
+
+      $request['file_id'] = serialize($file_ids);
       $article->create($request->all());
 
       return redirect('/articles');
@@ -62,8 +77,7 @@ class ArticleController extends Controller {
   /**
    * Display the specified resource.
    */
-  public
-  function show($id) {
+  public function show($id) {
     $article = Article::find($id);
     return view('article-show', [
       'article' => $article,
@@ -73,8 +87,7 @@ class ArticleController extends Controller {
   /**
    * Show the form for editing the specified resource.
    */
-  public
-  function edit($id) {
+  public function edit($id) {
     $article = Article::find($id);
     return view('article-edit', [
       'article' => $article,
@@ -84,8 +97,7 @@ class ArticleController extends Controller {
   /**
    * Update the specified resource in storage.
    */
-  public
-  function update(Request $request, $id) {
+  public function update(Request $request, $id) {
     $validator = $this->_validate($request);
     if ($validator->fails()) {
       return redirect()->back()->withErrors($validator->errors());
@@ -101,8 +113,10 @@ class ArticleController extends Controller {
   /**
    * Remove the specified resource from storage.
    */
-  public
-  function delete($id) {
+
+  //ToDo remake to POST
+
+  public function delete($id) {
     $article = Article::find($id);
     $article->delete();
     return redirect('/articles');
